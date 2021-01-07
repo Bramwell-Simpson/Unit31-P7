@@ -20,13 +20,7 @@ body
 
 .img-fade-in
 {
-    /** animation-name: fade-in;
-    animation-delay: 5s;
-    animation-timing-function: ease-in;
-    animation-duration: 3s;
-    -moz-animation-duration: 3s;
-    -o-animation-duration: 3s;
-    -webkit-animation-duration: 3s; **/
+
     -o-animation-iteration-count: 2;
     -o-animation-direction: alternate;
     -o-animation: fade-in 3s ease-in-out 5s;
