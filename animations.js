@@ -21,3 +21,15 @@ anime({
     direction: 'alternate',
     easing: 'linear'
 });
+
+anime({
+    targets: '.serato-img-3',
+    opacity: 1,
+    duration: 3000,
+    delay: 21000,
+    endDelay: 3000,
+    direction: 'alternate',
+    easing: 'linear'
+});
+
+anime()
